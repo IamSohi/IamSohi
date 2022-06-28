@@ -1,10 +1,14 @@
 ### Hi there 👋🏼I'm Sukhveer, a tech-enthusiast and self-driven individual with a passion for building things.
-### I'm interested in anything tech — especially web development and machine learning. I graduated from Kwantlen Polytechnic University in May 2020. My major was Computer Science and Information Systems. I have applied experience in developing full-stack web applications, server-less systems, and DevOps. 
+##### I'm interested in anything tech — especially web development and machine learning. I graduated from Kwantlen Polytechnic University in May 2020. My major was Computer Science and Information Systems. I have applied experience in developing full-stack web applications, server-less systems, and DevOps. 
 
-### In my free time, I love networking with people, listen to music, do some reading and sometimes enjoys cooking. I have a knack for bringing technology, business, science and philosophy in every discussion.
+##### In my free time, I love networking with people, listen to music, do some reading and sometimes enjoys cooking. I have a knack for bringing technology, business, science and philosophy in every discussion.
 
-### Browse the projects repositories to see some of my work or feel free to reach out!
-    
+##### Browse the projects repositories to see some of my work or feel free to reach out!
+
+- 🌱 I’m currently learning Terraform and Jenkins
+
+- 📫 How to reach me: Just Shoooot a message on LinkedIn
+
   [LinkedIn](https://www.linkedin.com/in/sukhveersohi/)<br>
   [Portfolio](https://iamsohi.github.io/portfolio/)
 
